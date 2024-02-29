@@ -1,4 +1,4 @@
-# Hackerszine Source Code
+# Welcome to Hackerszine
 
 ## About
 
