@@ -59,7 +59,6 @@ This website contains links to other sites. Please be aware that we are not resp
 Hackerszine secures your personal information from unauthorized access, use, or disclosure. Hackerszine uses the following methods for this purpose:
 
 - SSL Protocol
-- [...]
 
 When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
@@ -107,10 +106,14 @@ Hackerszine reserves the right to change this Privacy Policy from time to time. 
 Hackerszine welcomes your questions or comments regarding this Statement of Privacy. If you believe that Hackerszine has not adhered to this Statement, please contact Hackerszine at:
 
     Ophuscado LLC, dba Hackerszine
+    30 N Gould St Ste N
+    Sheridan WY 82801
+    United States
 
-    BALEL - #G33
-    10 rue du Prince 1204
-    Genève
-    Switzerland
+    Email Address:
+    SUPPORT@HACKERSZINE.COM
 
-Or by email to [legal@hackerszine.com](mailto:legal@hackerszine.com).
+    Telephone Number:
+    +1 (307) 222-3643
+
+Effective as of July 24, 2020.
